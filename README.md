@@ -1,3 +1,3 @@
 # alarmband_app
 
-Wan wan
+Repository for the AlarmBand Android App
